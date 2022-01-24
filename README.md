@@ -3,7 +3,7 @@
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
 ## View Live Application: 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/75168699-d790-40f9-b420-2093e0d56848/deploy-status)](https://app.netlify.com/sites/priyanka-rock-paper-scissor/deploys)
+https://priyanka-rock-paper-scissor.netlify.app/
 
 ## Welcome! 👋
 

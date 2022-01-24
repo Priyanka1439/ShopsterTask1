@@ -142,26 +142,14 @@ main{
     background:hsl(225, 9%, 83%);
 }
 
-.bar1, .bar2, .bar3 {
+.triangle{
+    top: 50px;
     position: absolute;
-    height: 12px;
-    width: 140px;
-    background-color: #181e3a;
     z-index: -1;
 }
 
-.bar1{
-    top: 50px;
-}
-.bar2{
-    top: 155px;
-    transform: rotate(60deg);
-    left: 60px;
-}
-.bar3{
-    top: 155px;
-    transform: rotate(-60deg);
-    right: 60px;
+.imgTriangle{
+    max-height: 250px;
 }
 
 .rules{

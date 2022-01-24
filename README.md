@@ -2,7 +2,7 @@
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
-# View Live Application: https://priyanka-rock-paper-scissor.netlify.app/
+View Live Application: https://priyanka-rock-paper-scissor.netlify.app/
 
 ## Welcome! 👋
 

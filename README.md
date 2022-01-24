@@ -2,6 +2,8 @@
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
+# View Live Application: https://priyanka-rock-paper-scissor.netlify.app/
+
 ## Welcome! 👋
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
